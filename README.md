@@ -21,6 +21,6 @@ I'm a 17-year-old student from Switzerland, deeply fascinated by cybersecurity, 
 
 ## Connect with Me:
 
-[![Discord](https://img.shields.io/badge/Discord-@varialbe-blue?logo=discord)](https://discordapp.com/users/@varialbe)
+[![Discord](https://img.shields.io/badge/Discord-@varialbe-blue?logo=discord)](https://discord.com/users/1109817329845534792)
 [![Website](https://img.shields.io/badge/Website-varialbe.xyz-blue?logo=data:image/png;base64,[Base64_Encoded_Favicon])](https://varialbe.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-@varialbe-blue?logo=telegram)](https://t.me/@varialbe)
