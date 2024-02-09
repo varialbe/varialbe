@@ -15,7 +15,7 @@ I'm a 17-year-old student from Switzerland, deeply fascinated by cybersecurity, 
 #### Currently Learning:
 ![PHP](https://img.shields.io/badge/PHP-Learning-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-Leaning-purple)
 #### Planning to Learn:
 ![SQL](https://img.shields.io/badge/SQL-Planning_to_Learn-lightgrey)
 
